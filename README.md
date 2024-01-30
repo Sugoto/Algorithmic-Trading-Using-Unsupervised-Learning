@@ -1,6 +1,8 @@
-# Unsupervised Learning Trading Strategy using Python and ML 📊💻
+# Unsupervised Trading Strategy using Python and ML 📊💻
 
-A comprehensive analysis of the S&P 500 stock market, employing sophisticated machine learning techniques for portfolio optimization and enhanced decision-making. 🔍💹
+A comprehensive analysis of the S&P 500 stock market, employing machine learning techniques for portfolio optimization and enhanced decision-making. 🔍💹
+
+![image](https://github.com/Sugoto/Algorithmic-Trading-Using-Unsupervised-Learning/assets/60142374/d4689228-cab7-441b-89de-226b133087dc)
 
 ## 📦 All Packages Needed
 - pandas 🐼
